@@ -24,13 +24,9 @@ It's a simple solution and will definitely save some time and energy.
 Clone this repo then follow these steps: 
 <br />
 1. Open the codewars.ipynb
-<br />
 2. Insert e-mail address in the email_address variable
-<br />
 3. Insert password in the password variable
-<br />
 4. Run the rest of the cells
-<br />
 5. DO NOT COMMIT OR PUSH as it contains your credentials. 
 
 
