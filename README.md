@@ -26,7 +26,7 @@ Clone this repo then follow these steps:
 1. Open the codewars.ipynb
 2. Insert e-mail address in the email_address variable
 3. Insert password in the password variable
-4. Run the rest of the cells
+4. Run the cells
 5. DO NOT COMMIT OR PUSH as it contains your credentials. 
 
 
