@@ -18,7 +18,7 @@ Create a bot to go through and do the work for you.
 <br />
 This bot will go through your allies and unfollow them for you.
 <br />
-**Before switching clans** you can use this bot to clear your following allies.
+**BEFORE SWITCHING CLANS** you can use this bot to clear your following allies.
 <br />
 Once your following allies are cleared, you can change your clan and your allies will be updated to your new clan.
 <br />
