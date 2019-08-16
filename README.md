@@ -18,7 +18,7 @@ Create a bot to go through and do the work for you.
 <br />
 This bot will go through your allies and unfollow them for you.
 <br />
-Before switching clans you can use this bot to clear your following allies.
+**Before switching clans** you can use this bot to clear your following allies.
 <br />
 Once your following allies are cleared, you can change your clan and your allies will be updated to your new clan.
 <br />
@@ -31,7 +31,7 @@ Clone this repo then follow these steps:
 2. Insert e-mail address in the email_address variable
 3. Insert password in the password variable
 4. Run the cells
-5. DO NOT COMMIT OR PUSH as it contains your credentials. 
+5. **DO NOT COMMIT OR PUSH** as it contains your credentials. 
 
 
 
