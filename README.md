@@ -1,6 +1,6 @@
 ## Codewars: Changing Clans
 <br />
-Contributors: Jacob Crabb & Mando Iwanaga
+Contributors: <a href="https://github.com/AlludedCrabb" >Jacob Crabb</a> & Mando Iwanaga
 <br />
 August 15, 2019
 <br />
