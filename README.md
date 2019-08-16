@@ -6,7 +6,7 @@ August 15, 2019
 <br />
 
 ### Problem
-When you join a clan <a href="http://www.codewars.com" >codewars.com</a>, you automatically follow everyone in that clan and become allies. 
+When you join a clan in <a href="http://www.codewars.com" >codewars.com</a>, you automatically follow everyone in that clan and become allies. 
 <br />
 This is very convienient and easy to connect with others and see their progress. 
 <br />
