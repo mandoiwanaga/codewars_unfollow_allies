@@ -11,12 +11,16 @@ When you join a clan <a href="http://www.codewars.com" >codewars.com</a>, you au
 This is very convienient and easy to connect with others and see their progress. 
 <br />
 <br />
-However if you decide to change clans, it becomes a little inconvenient. As of August 15 2019, even if you change clans your allies do not change. In order to update your allies to your new clan, you must manually unfollow everyone in your previous clan, which can be very time-consuming, depending on how many allies you have. 
+However if you decide to change clans, it becomes a little inconvenient. As of August 15 2019, if you change clans your new allies will be added to your previous clans' allies. In order to update your allies to your new clan, you must manually unfollow everyone in your previous clan, which can be very time-consuming. 
 
 ### Solution
 Create a bot to go through and do the work for you.
 <br />
 This bot will go through your allies and unfollow them for you.
+<br />
+Before switching clans you can use this bot to clear your following allies.
+<br />
+Once your following allies are cleared, you can change your clan and your allies will be updated to your new clan.
 <br />
 It's a simple solution and will definitely save some time and energy.
 
